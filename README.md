@@ -40,4 +40,4 @@ This project helps understand business trends and supports data-driven decision-
 ![Payment](analysis_visualization/graph_png2.png)
 
 ### Top Sales Category
-![Sales Category](analysis_visualization/graph_png3.png)
+![Sales Category](analysis_visualization/graph_png4.png)
