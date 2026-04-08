@@ -27,3 +27,17 @@ This project analyzes e-commerce data to extract meaningful business insights su
 
 ## 📈 Results
 This project helps understand business trends and supports data-driven decision-making.
+## 📊 Visualizations
+
+### monthly revenue
+![revenue](analysis_visualization/graph_png.png)
+
+## order status distribution
+![order_status](analysis_visualization/graph_png1.png)
+## 📊 Visualizations
+
+### Payment Distribution
+![Payment](analysis_visualization/graph_png2.png)
+
+### Top Sales Category
+![Sales Category](analysis_visualization/graph_png3.png)
